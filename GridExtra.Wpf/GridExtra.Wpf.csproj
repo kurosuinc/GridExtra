@@ -2,7 +2,7 @@
   <PropertyGroup>
     <ProjectGuid>{631C583B-5E88-4ABD-9926-C18E4ADDF6C6}</ProjectGuid>
     <RootNamespace>SourceChord.GridExtra</RootNamespace>
-    <TargetFrameworks>net45;netcoreapp3.1</TargetFrameworks>
+    <TargetFrameworks>net48;netcoreapp3.1</TargetFrameworks>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <AssemblyTitle>GridExtra.Wpf</AssemblyTitle>
     <Company>SourceChord</Company>
